@@ -540,11 +540,9 @@ MIT
 
 
 
-Your Name
+Kartikey Ram
 
 
 
-LinkedIn: https://linkedin.com/in/yourprofile  
 
-GitHub: https://github.com/yourusername
 
