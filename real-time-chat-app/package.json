@@ -1,0 +1,10 @@
+{
+  "name": "real-time-chat-app",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "install-all": "cd backend && npm install && cd ../frontend && npm install",
+    "dev": "echo \"Run frontend and backend separately\"",
+    "test": "cd backend && npm test"
+  }
+}
